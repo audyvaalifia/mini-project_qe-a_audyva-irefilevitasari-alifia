@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Order","GET - As admin I have be able to get order","SUCCESS","2023-05-09T17:04:58.9964464+07:00[Asia/Jakarta]","0.0","0.43"
+"Order","POST - As admin I have be able to create a new order","SUCCESS","2023-05-09T17:04:59.4295565+07:00[Asia/Jakarta]","0.0","0.17"

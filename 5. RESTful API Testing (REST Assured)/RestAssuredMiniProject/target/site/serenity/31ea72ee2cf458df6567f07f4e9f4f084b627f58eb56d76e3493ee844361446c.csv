@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Comment","GET - As admin I have be able to get product comment","SUCCESS","2023-05-09T17:04:58.4935617+07:00[Asia/Jakarta]","0.0","0.18"
+"Comment","POST - As admin I have be able to assign a product comment","SUCCESS","2023-05-09T17:04:58.680429+07:00[Asia/Jakarta]","0.0","0.15"

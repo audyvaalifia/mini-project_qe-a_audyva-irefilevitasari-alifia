@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"PurchasePos","As user, I have to be able to purchase something","FAILURE","2023-05-09T17:06:14.2393628+07:00[Asia/Jakarta]","0.0","8.96"
+"ViewDetailPos","As user, I have be able to success view detail of product","FAILURE","2023-05-09T17:06:31.7474347+07:00[Asia/Jakarta]","0.0","9.82"

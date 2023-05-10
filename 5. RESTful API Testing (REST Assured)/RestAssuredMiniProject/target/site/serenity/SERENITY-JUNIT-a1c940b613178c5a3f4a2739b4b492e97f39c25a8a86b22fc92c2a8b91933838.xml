@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Rating" skipped="0" tests="2" time="0.67" timestamp="2023-05-09 05:05:01"><testcase name="GET - As admin I have be able to get rating product"/><testcase name="POST - As admin I have be able to assign a rating product"/></testsuite>

@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Rating","GET - As admin I have be able to get rating product","SUCCESS","2023-05-09T17:05:01.0717541+07:00[Asia/Jakarta]","0.0","0.47"
+"Rating","POST - As admin I have be able to assign a rating product","SUCCESS","2023-05-09T17:05:01.5435412+07:00[Asia/Jakarta]","0.0","0.2"

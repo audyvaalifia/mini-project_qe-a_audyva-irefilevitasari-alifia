@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Category","GET - As admin I have be able to get product category","SUCCESS","2023-05-09T17:04:57.9332929+07:00[Asia/Jakarta]","0.0","0.19"
+"Category","POST - As admin I have be able to assign a product category","SUCCESS","2023-05-09T17:04:58.1363717+07:00[Asia/Jakarta]","0.0","0.18"
+"Category","DELETE - As admin I have be able to delete existing category","SUCCESS","2023-05-09T17:04:58.3284518+07:00[Asia/Jakarta]","0.0","0.16"

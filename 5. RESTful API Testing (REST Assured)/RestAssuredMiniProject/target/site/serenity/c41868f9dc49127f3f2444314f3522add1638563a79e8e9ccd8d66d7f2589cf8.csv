@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Auth","GET - As admin I have be able to get user information","SUCCESS","2023-05-09T17:04:54.5625909+07:00[Asia/Jakarta]","0.0","2.93"
+"Auth","POST - As admin I have be able to register a new user account","SUCCESS","2023-05-09T17:04:57.5076644+07:00[Asia/Jakarta]","0.0","0.22"
+"Auth","POST - As admin I have be able to login existing user account","SUCCESS","2023-05-09T17:04:57.7382525+07:00[Asia/Jakarta]","0.0","0.18"

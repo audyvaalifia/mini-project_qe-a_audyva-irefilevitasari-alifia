@@ -1,0 +1,17 @@
+starter\stepDefinition\LoginNegSteps.class
+starter\pages\AddToCartPos.class
+starter\stepDefinition\PurchasePosSteps.class
+starter\pages\LoginPos.class
+starter\pages\RegisterNeg.class
+starter\pages\PurchasePos.class
+starter\stepDefinition\AddToCartPosSteps.class
+starter\stepDefinition\LoginPosSteps.class
+starter\stepDefinition\RegisterPosSteps.class
+starter\stepDefinition\ViewDetailPosSteps.class
+starter\stepDefinition\PurchaseNegSteps.class
+starter\pages\LoginNeg.class
+starter\pages\ViewDetailPos.class
+starter\CucumberTestSuite.class
+starter\pages\RegisterPos.class
+starter\pages\PurchaseNeg.class
+starter\stepDefinition\RegisterNegSteps.class
